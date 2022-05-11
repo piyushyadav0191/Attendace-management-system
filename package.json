@@ -2,7 +2,7 @@
   "name": "attendance-management-system",
   "version": "1.0.0",
   "description": "Powerful web-system to manage the attendance of the particular organization",
-  "main": "index.js",
+  "main": "/assets/js/main.js",
   "source": "/index.html",
   "scripts": {
     "start": "parcel",
@@ -21,4 +21,6 @@
   "dependencies": {
     "parcel": "^2.5.0"
   }
+  
+  
 }
